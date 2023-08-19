@@ -1,2 +1,2 @@
-This is my practice code.
+This is my practice React project.
 I made a task manager.
